@@ -9,3 +9,4 @@ The goal in this game is reach to end without touching diffrent color than playe
 There is only one 1 level because like i said my main purpose is only implement game mechanichs and learn.
 I can share game files if requested.
 
+Gameplay video: https://youtu.be/9EaoUyux5jg
