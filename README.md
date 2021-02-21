@@ -5,7 +5,7 @@ I do not have any money making purpose. Made for educational purposes only.
 
 Info:
 
-The goal in this game is reach to end without touching diffreten color than player's color.
+The goal in this game is reach to end without touching diffrent color than player's color.
 There is only one 1 level because like i said my main purpose is only implement game mechanichs and learn.
 I can share game files if requested.
 
